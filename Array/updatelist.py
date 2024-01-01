@@ -7,7 +7,7 @@ shoplist =['milk', 'cheese','butter']
 for i in shoplist:
     print(i)
     
-# updating a list 
+# updating a list  ok 
 shoplist[1]='tomato'
 print(shoplist)
 shoplist.insert(3,11)
